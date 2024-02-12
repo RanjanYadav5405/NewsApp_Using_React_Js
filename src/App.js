@@ -6,7 +6,7 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 
 export default class App extends Component {
   pageSize=15;
-
+// now we have to make loading bar
   render() {
     return (
       <div>
